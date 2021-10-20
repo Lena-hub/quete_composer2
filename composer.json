@@ -1,0 +1,18 @@
+{
+    "name": "lenap/cow-say",
+    "description": "quete é cowsay",
+    "autoload": {
+        "psr-4": {
+            "33695\\CowSay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lena LE BILLAN",
+            "email": "84079692+Lena-hub@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
